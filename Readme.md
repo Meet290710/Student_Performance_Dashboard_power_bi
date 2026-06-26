@@ -114,25 +114,25 @@ The project uses **four CSV datasets**.
 
 ## 🏠 Academic Dashboard
 
-![Academic Dashboard](screenshots/ss_1.png)
+![Academic Dashboard](Screenshots/ss_1.png)
 
 ---
 
 ## 📚 Subject Performance
 
-![Subject Analysis](screenshots/ss_2.png)
+![Subject Analysis](Screenshots/ss_2.png)
 
 ---
 
 ## 📅 Attendance Dashboard
 
-![Attendance Dashboard](screenshots/ss_3.png)
+![Attendance Dashboard](Screenshots/ss_3.png)
 
 ---
 
 ## 😊 Behavior Dashboard
 
-![Behavior Dashboard](screenshots/ss_4.png)
+![Behavior Dashboard](Screenshots/ss_4.png)
 
 ---
 
